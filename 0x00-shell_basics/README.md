@@ -1,3 +1,0 @@
- scripis using basj
-:wq
-
